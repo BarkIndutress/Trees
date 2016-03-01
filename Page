@@ -54,12 +54,11 @@ li a.active {
 
 
 <a href="http://www.idpan.poznan.pl/content"> Official Tree Journal of the World>
-<img src="http://www.charleycarlat.com/PlantModels/images/River%20Birch%20Tree.jpg" alt="Birch" style="width:320px;height:320px;">
 <table>
 <tr>
-<td style=width: 320px; height: 320px;><center><img src="http://www.charleycarlat.com/PlantModels/images/River%20Birch%20Tree.jpg" alt="Birch" style="width:320px;height:320px;"></center></td>
-<td style=width: 320px; height: 320px;></td>
-<td style=width: 320px; height: 320px;></td>
+<td style=width: 320px; height: 320px;><img src="http://www.charleycarlat.com/PlantModels/images/River%20Birch%20Tree.jpg" alt="Birch" style="width:320px;height:320px;"></td>
+<td style=width: 320px; height: 320px;><img src=http://treepicturesonline.com/tree-beech.jpg alt=Beech style=width:320px;height:320px></td>
+<td style=width: 320px; height: 320px;><img src=http://treepicturesonline.com/oak.jpg alt=Oak style=width:320px;height:320px></td>
 <td style=width: 320px; height: 320px;></td>
 <td style=width: 320px; height: 320px;></td>
 </tr>
