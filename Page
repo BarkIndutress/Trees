@@ -57,7 +57,7 @@ li a.active {
 
 <table>
 <tr>
-<td style=width: 320px; height: 320px;><img src=http://www.charleycarlat.com/PlantModels/images/River%20Birch%20Tree.jpg style="width:320px;height:160px></td>
+<td style=width: 320px; height: 320px;><center><img src="http://www.charleycarlat.com/PlantModels/images/River%20Birch%20Tree.jpg" alt="Birch" style="width:320px;height:320px;"></center></td>
 <td style=width: 320px; height: 320px;></td>
 <td style=width: 320px; height: 320px;></td>
 <td style=width: 320px; height: 320px;></td>
